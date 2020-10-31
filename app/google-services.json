@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166842500134",
+    "firebase_url": "https://track-trigger-bb968.firebaseio.com",
+    "project_id": "track-trigger-bb968",
+    "storage_bucket": "track-trigger-bb968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166842500134:android:9920d99573d54dbde012e7",
+        "android_client_info": {
+          "package_name": "com.example.tracktrigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166842500134-5i753luo149i96a67kpd1n8k9a5hsqp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracktrigger",
+            "certificate_hash": "cfe45fcfcf6f1dfb8f4d42642c4e8e3b64456f84"
+          }
+        },
+        {
+          "client_id": "166842500134-n2judin5b4qkkud3ed00q7mkqrovmcea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxIF0znpYshZR4ka7crgeZ45E5gWmANNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166842500134-n2judin5b4qkkud3ed00q7mkqrovmcea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
